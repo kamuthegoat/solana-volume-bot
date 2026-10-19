@@ -58,4 +58,4 @@ Press `Ctrl+C` at any time to gracefully halt trading and sweep all funds back t
   - **ETH (Base / Mainnet):** `0xeC7056A6440F36b8616b4bF2B41501AaAd005c9D`
   - **BTC:** `bc1qm0kwx7ed4g5wzl3rzuu4wdh9lqf00knhs5r778`
 
-For automated license key generation or custom multi-node setups, send transaction hash to `kamu.dev@outlook.com`.
+For automated license key generation or custom multi-node setups, send transaction hash to `yoma41563@gmail.com`.
