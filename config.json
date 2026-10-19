@@ -1,0 +1,16 @@
+{
+  "rpc_url": "https://api.mainnet-beta.solana.com",
+  "ws_url": "wss://api.mainnet-beta.solana.com",
+  "target_dex": "pump_fun",
+  "target_token_mint": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+  "sub_wallet_count": 5,
+  "min_trade_sol": 0.005,
+  "max_trade_sol": 0.025,
+  "min_delay_sec": 3.0,
+  "max_delay_sec": 10.0,
+  "slippage_pct": 5.0,
+  "enable_jito": true,
+  "jito_tip_sol": 0.0005,
+  "jito_endpoint": "https://mainnet.block-engine.jito.wtf/api/v1/bundles",
+  "master_payout_wallet": "3Uiis6Zv8fsxuvANCAvDPU5dGxrnjrGgg4HpN1Pz6HHn"
+}
